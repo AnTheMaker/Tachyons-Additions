@@ -1,2 +1,2 @@
-# Taychons-Additions
-Taychons-Additions extends [TAYCHONS CSS](https://tachyons.io/) with some additional styles
+# Tachyons-Additions
+Taychons-Additions extends [TACHYONS CSS](https://tachyons.io/) with some additional styles
